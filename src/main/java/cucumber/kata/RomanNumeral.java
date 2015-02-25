@@ -1,7 +1,7 @@
 package cucumber.kata;
 
 /**
- * Created by 212314280 on 3/9/14.
+ * Created by Shane Hayes on 12/01/14.
  */
 public enum RomanNumeral {
     M(1000, "M"),

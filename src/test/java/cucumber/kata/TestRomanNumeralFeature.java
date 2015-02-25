@@ -7,7 +7,7 @@ import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.fail;
 
 /**
- * Created by 212314280 on 3/9/14.
+ * Created by Shane Hayes on 12/01/14.
  */
 public class TestRomanNumeralFeature {
     private ConversionEntry aRomanConversion;
